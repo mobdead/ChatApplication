@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1034720834282",
+    "project_id": "chatapplication-aa009",
+    "storage_bucket": "chatapplication-aa009.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1034720834282:android:6ef5a600952490ddb99d93",
+        "android_client_info": {
+          "package_name": "com.alikaynakli.chatapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1034720834282-22dih6ks3c5spfberm1vho29nokkejdc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBze35wjsUk3bd1PG0_fMReFERGFUzCZxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1034720834282-22dih6ks3c5spfberm1vho29nokkejdc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
